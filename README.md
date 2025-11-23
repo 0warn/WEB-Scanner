@@ -57,7 +57,7 @@ Designed with a modular architecture, the scanner allows for easy extension and 
 1. **Clone the Repository**:  
    Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/CYBER-MRINAL/WEB-Scanner.git
+   git clone https://github.com/CYBER-4RMY/WEB-Scanner.git
    ```
 
 2. **Run the Scanner**:  
@@ -93,11 +93,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 We would like to acknowledge the contributions of the open-source community and various security researchers whose work has informed the development of this scanner. Special thanks to the OWASP Foundation for their invaluable resources and guidelines on web application security.
-
----
-
-## Contact
-For inquiries, feedback, or collaboration opportunities, please feel free to reach out via [TELEGRAM](https://t.me/cybermrinalgroup).
 
 ---
 
