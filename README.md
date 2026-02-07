@@ -57,7 +57,7 @@ Designed with a modular architecture, the scanner allows for easy extension and 
 1. **Clone the Repository**:  
    Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/CYBER-4RMY/WEB-Scanner.git
+   git clone https://github.com/0warn/WEB-Scanner.git
    ```
 
 2. **Run the Scanner**:  
